@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/AmrElnaggar99/reactnd-project-myreads-starter/static/css/main.68e45077.chunk.css",
-    "main.js": "/AmrElnaggar99/reactnd-project-myreads-starter/static/js/main.0b77e382.chunk.js",
-    "main.js.map": "/AmrElnaggar99/reactnd-project-myreads-starter/static/js/main.0b77e382.chunk.js.map",
-    "runtime-main.js": "/AmrElnaggar99/reactnd-project-myreads-starter/static/js/runtime-main.e452d509.js",
-    "runtime-main.js.map": "/AmrElnaggar99/reactnd-project-myreads-starter/static/js/runtime-main.e452d509.js.map",
-    "static/js/2.5ece63d8.chunk.js": "/AmrElnaggar99/reactnd-project-myreads-starter/static/js/2.5ece63d8.chunk.js",
-    "static/js/2.5ece63d8.chunk.js.map": "/AmrElnaggar99/reactnd-project-myreads-starter/static/js/2.5ece63d8.chunk.js.map",
-    "index.html": "/AmrElnaggar99/reactnd-project-myreads-starter/index.html",
-    "precache-manifest.28822db3093a9c20c13b6c648da3b2b6.js": "/AmrElnaggar99/reactnd-project-myreads-starter/precache-manifest.28822db3093a9c20c13b6c648da3b2b6.js",
-    "service-worker.js": "/AmrElnaggar99/reactnd-project-myreads-starter/service-worker.js",
-    "static/css/main.68e45077.chunk.css.map": "/AmrElnaggar99/reactnd-project-myreads-starter/static/css/main.68e45077.chunk.css.map",
-    "static/js/2.5ece63d8.chunk.js.LICENSE.txt": "/AmrElnaggar99/reactnd-project-myreads-starter/static/js/2.5ece63d8.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/AmrElnaggar99/reactnd-project-myreads-starter/static/media/arrow-drop-down.9d4e3f36.svg"
+    "main.css": "/reactnd-project-myreads-starter/static/css/main.a4b89a27.chunk.css",
+    "main.js": "/reactnd-project-myreads-starter/static/js/main.0b77e382.chunk.js",
+    "main.js.map": "/reactnd-project-myreads-starter/static/js/main.0b77e382.chunk.js.map",
+    "runtime-main.js": "/reactnd-project-myreads-starter/static/js/runtime-main.40bee9ec.js",
+    "runtime-main.js.map": "/reactnd-project-myreads-starter/static/js/runtime-main.40bee9ec.js.map",
+    "static/js/2.5ece63d8.chunk.js": "/reactnd-project-myreads-starter/static/js/2.5ece63d8.chunk.js",
+    "static/js/2.5ece63d8.chunk.js.map": "/reactnd-project-myreads-starter/static/js/2.5ece63d8.chunk.js.map",
+    "index.html": "/reactnd-project-myreads-starter/index.html",
+    "precache-manifest.143b62c6e5911c7f55a98845fb7cc17a.js": "/reactnd-project-myreads-starter/precache-manifest.143b62c6e5911c7f55a98845fb7cc17a.js",
+    "service-worker.js": "/reactnd-project-myreads-starter/service-worker.js",
+    "static/css/main.a4b89a27.chunk.css.map": "/reactnd-project-myreads-starter/static/css/main.a4b89a27.chunk.css.map",
+    "static/js/2.5ece63d8.chunk.js.LICENSE.txt": "/reactnd-project-myreads-starter/static/js/2.5ece63d8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactnd-project-myreads-starter/static/media/arrow-drop-down.9d4e3f36.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e452d509.js",
+    "static/js/runtime-main.40bee9ec.js",
     "static/js/2.5ece63d8.chunk.js",
-    "static/css/main.68e45077.chunk.css",
+    "static/css/main.a4b89a27.chunk.css",
     "static/js/main.0b77e382.chunk.js"
   ]
 }
