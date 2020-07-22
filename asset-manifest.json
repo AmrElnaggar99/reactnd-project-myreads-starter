@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactnd-project-myreads-starter/static/css/main.a4b89a27.chunk.css",
-    "main.js": "/reactnd-project-myreads-starter/static/js/main.0b77e382.chunk.js",
-    "main.js.map": "/reactnd-project-myreads-starter/static/js/main.0b77e382.chunk.js.map",
+    "main.js": "/reactnd-project-myreads-starter/static/js/main.50de39f2.chunk.js",
+    "main.js.map": "/reactnd-project-myreads-starter/static/js/main.50de39f2.chunk.js.map",
     "runtime-main.js": "/reactnd-project-myreads-starter/static/js/runtime-main.40bee9ec.js",
     "runtime-main.js.map": "/reactnd-project-myreads-starter/static/js/runtime-main.40bee9ec.js.map",
     "static/js/2.5ece63d8.chunk.js": "/reactnd-project-myreads-starter/static/js/2.5ece63d8.chunk.js",
     "static/js/2.5ece63d8.chunk.js.map": "/reactnd-project-myreads-starter/static/js/2.5ece63d8.chunk.js.map",
     "index.html": "/reactnd-project-myreads-starter/index.html",
-    "precache-manifest.143b62c6e5911c7f55a98845fb7cc17a.js": "/reactnd-project-myreads-starter/precache-manifest.143b62c6e5911c7f55a98845fb7cc17a.js",
+    "precache-manifest.1939098e83a6ab8734e29048b035360f.js": "/reactnd-project-myreads-starter/precache-manifest.1939098e83a6ab8734e29048b035360f.js",
     "service-worker.js": "/reactnd-project-myreads-starter/service-worker.js",
     "static/css/main.a4b89a27.chunk.css.map": "/reactnd-project-myreads-starter/static/css/main.a4b89a27.chunk.css.map",
     "static/js/2.5ece63d8.chunk.js.LICENSE.txt": "/reactnd-project-myreads-starter/static/js/2.5ece63d8.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.40bee9ec.js",
     "static/js/2.5ece63d8.chunk.js",
     "static/css/main.a4b89a27.chunk.css",
-    "static/js/main.0b77e382.chunk.js"
+    "static/js/main.50de39f2.chunk.js"
   ]
 }
