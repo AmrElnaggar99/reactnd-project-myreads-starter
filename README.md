@@ -1,6 +1,9 @@
 # Demo
 A demo of my implementation will be found here: https://amrelnaggar99.github.io/reactnd-project-myreads-starter/
 
+Click on the green circle of each book to change the shelf.
+Click on the green circle at the right-bottom of screen to add a new book.
+
 # Udacity's Original README
 ## MyReads Project
 
